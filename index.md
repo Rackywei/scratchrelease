@@ -4,9 +4,9 @@
 
 ## 爸爸的游戏  
 
-![快乐小鸡](pic/chiken.png)  
+<img src="pic/chiken.png" alt="快乐小鸡" width="300" height="200">  
 
-[快乐小鸡游戏](https://rackywei.github.io/scratchrelease/happychicken%20V1.5.html)  
+点我开始玩[快乐小鸡游戏](https://rackywei.github.io/scratchrelease/happychicken%20V1.5.html)  
 
 ****  
 
